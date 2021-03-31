@@ -1,0 +1,6 @@
+top1.realvu_pr2.setU(window,{s:'300x250',c:'E4KZ',p:'10145',lid:399145092,unit_id:'realvu10145',sr :'c',mode:'wtf,hbid',tar:30000,wait:1
+,vbids:[{bidder:'smartadserver',params:{siteId:323326,pageId:1148570,formatId:81138},rv_id:'2167440'},{bidder:'pubmatic',params:{publisherId:"158024",adSlot:"2186727"},rv_id:'2171391'},{bidder:'openx',params:{delDomain:'durationmedia-d.openx.net',unit:"540569413"},rv_id:'2171404'},{bidder:'nobid',params:{siteId:"21914968133"},rv_id:'2181282'}]
+,imbids:[],tags:
+[{id:2162850,st:"R", tag:"<script src='https://www.googletagservices.com/tag/js/gpt.js'>\n googletag.pubads().definePassback('/21688424927/curse/fandom', [[300, 250]]).set(\"page_url\", \"fandom.com\").display();\n</script>",s:"300x250",nr:0}
+,{id:2173860,st:"B", tag:"<script src=\"https://www.googletagservices.com/tag/js/gpt.js\"> googletag.pubads().definePassback(\"/64387298/durationmedia/fandom\", [[300,250]]).set(\"page_url\", \"fandom.com\").display();</script>",s:"300x250",pt:1,nr:0}]});
+/* t1:1 t2:1 */
